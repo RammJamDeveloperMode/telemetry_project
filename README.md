@@ -217,8 +217,6 @@ telemetry-project/
 4. Push a la rama
 5. Crear Pull Request
 
-## Licencia
-MIT License
 
 ## Análisis Avanzado con Kinesis Data Analytics
 
