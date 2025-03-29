@@ -1,0 +1,68 @@
+# Scala
+*.class
+*.log
+*.ctxt
+.metals/
+.bloop/
+.bsp/
+project/metals.sbt
+project/.bloop/
+.history
+.cache
+.lib/
+dist/*
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.hydra
+.scala-build/
+.scala/
+.metals/
+.bloop/
+.bsp/
+project/metals.sbt
+project/.bloop/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# SBT
+target/
+lib_managed/
+src_managed/
+project/boot/
+.history
+.cache
+.lib/
+dist/*
+project/plugins/project/
+
+# Logs
+*.log
+logs/
+log/
+
+# Local configuration
+config/local_config.json
+
+# Test data
+test_data/
+*.parquet
+*.csv
+*.json
+
+# Temporary files
+tmp/
+temp/ 
